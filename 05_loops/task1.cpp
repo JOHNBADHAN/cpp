@@ -13,6 +13,5 @@ int main(){
         cout << "Serving a cup of tea \n" << tea_cups << " remaining" << endl;    }
 
     cout << "All tea cups are served. " << endl;
-
     return 0;
 }

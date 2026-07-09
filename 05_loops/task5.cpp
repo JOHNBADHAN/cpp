@@ -15,6 +15,5 @@ int main(){
         }
         cout << "Brewing " << teaTypes[i] << "..." << endl;
     }
-
     return 0;
 }
